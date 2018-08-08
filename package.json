@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "bh1750": "0.0.4",
-    "bmp085": "1.0.0"
+    "bmp085": "1.0.0",
+    "lodash": "^4.17.10"
   },
   "keywords": [
     "sensor",
